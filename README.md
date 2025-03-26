@@ -50,14 +50,5 @@ The script runs automatically and prints:
 2. A tampered version of the blockchain.
 3. Validation check results.
 
-## Future Enhancements
-- Implement a peer-to-peer network simulation.
-- Add a transaction pool with dynamic block creation.
-- Implement digital signatures for transaction authenticity.
 
-## Author
-Developed as part of a blockchain coding challenge.
-
----
-Feel free to reach out for any questions or improvements!
 
